@@ -238,8 +238,6 @@ gautham@research:~$ cat achievements.log | tail -n 20
 
 </div>
 
-> 💡 &nbsp; Requires the [`snake` GitHub Action](https://github.com/Platane/snk) to be enabled. Add `.github/workflows/snake.yml` in this repo.
-
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> Random Dev Quote
